@@ -1,14 +1,14 @@
-### Growbotics
+# Growbotics
 
-# Design
+## Design
 
-# Math
+## Math
 
-# Electronics
+## Electronics
 
-# Code
+## Code
 
-# Materials
+## Materials
 | Left-aligned | Center-aligned | Right-aligned |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
