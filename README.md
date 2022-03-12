@@ -1,4 +1,4 @@
-# Growbotics
+## Growbotics
 
 # Design
 
