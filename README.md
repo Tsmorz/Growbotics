@@ -9,7 +9,7 @@
 ## Code
 
 ## Materials
-| Item         | Quantity       | Cost          | Link |
+| Item         | Quantity       | Cost (each)          | Link |
 | :---         |     :---:      |          ---: | ---: |
-| git status   | git status     | git status    |    https://www.mcmaster.com/62195K13/  |
+| Threaded balls   | 16     | $1.75    |    https://www.mcmaster.com/62195K13/  |
 | git diff     | git diff       | git diff      |      |
