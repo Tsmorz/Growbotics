@@ -1,7 +1,7 @@
 # Growbotics
 
 ## Design
-Helical vs Worm vs Timing Belt
+Helical vs Worm vs Timing Belt\
 Lubricated vs Non-lubricated
 Set screw vs keyed
 Plastic vs Metal
