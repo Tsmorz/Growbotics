@@ -4,7 +4,7 @@
 Helical vs Worm vs Timing Belt\
 Lubricated vs Non-lubricated\
 Set screw vs keyed\
-Plastic vs Metal\
+Plastic vs Metal
 
 ## Math
 
