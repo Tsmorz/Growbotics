@@ -18,6 +18,7 @@ Inverse Kinematics:
 Control Systems:
 
 ## Electronics
+[wiring.pdf](https://github.com/Tsmorz/Growbotics/files/8258206/wiring.pdf)
 
 ## Code
 ```
