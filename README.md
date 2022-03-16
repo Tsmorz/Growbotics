@@ -37,7 +37,7 @@ Control Systems:
 
 ## Code
 ```
-sudo apt-get install grwbot
+$ pip install grwbot
 ```
 
 
