@@ -1,7 +1,6 @@
 # Growbotics Inc. - UNFINISHED
 ## Youtube video: [mobile robot planting seedlings from a greenhouse](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <img src="https://user-images.githubusercontent.com/83112082/158695710-409a7582-68b4-4f60-8c9a-1ad10f0847a4.png" width="100%" height="100%">
-<img src="https://user-images.githubusercontent.com/83112082/158495623-3ea8e271-a757-4633-aa96-0498f6b3723a.png" width="50%" height="50%">
 
 ## Design
 Helical vs Worm:\
@@ -17,7 +16,7 @@ CAD files:\
 https://cad.onshape.com/
 
 3D print files:\
-https://www.eiger.io/library?view=grid
+https://www.eiger.io/
 
 ## Math
 ![ik_fk_planar_ik](https://user-images.githubusercontent.com/83112082/158498262-d42ebefd-7650-441f-95d4-f40f9f91df03.gif)\
