@@ -1,5 +1,5 @@
 # Growbotics Inc.
-<img src="https://user-images.githubusercontent.com/83112082/158495623-3ea8e271-a757-4633-aa96-0498f6b3723a.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/83112082/158495623-3ea8e271-a757-4633-aa96-0498f6b3723a.png" width="50%" height="50%">
 
 ## Design
 Helical vs Worm:\
