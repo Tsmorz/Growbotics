@@ -12,7 +12,7 @@ Set screw vs keyed:
 Plastic vs Metal:
 
 CAD files:
-
+https://cad.onshape.com/documents/517871e35c968bd66d5ebe1e/w/f864adab8c0359ced1c15b50/e/7b4442122f08ae8b70de35cf
 
 ## Math
 ![ik_fk_planar_ik](https://user-images.githubusercontent.com/83112082/158498262-d42ebefd-7650-441f-95d4-f40f9f91df03.gif)\
