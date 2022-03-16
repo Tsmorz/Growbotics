@@ -52,3 +52,6 @@ sudo apt-get install grwbot
 ## Assembly
 
 ## Installation
+
+## Planting Materials
+http://www.jiffypot.com/en/products/jiffymultigrow.html
