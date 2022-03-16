@@ -1,6 +1,5 @@
 # Growbotics Inc.
-#![delta](https://user-images.githubusercontent.com/83112082/158495623-3ea8e271-a757-4633-aa96-0498f6b3723a.png)
-<img src="https://user-images.githubusercontent.com/83112082/158495623-3ea8e271-a757-4633-aa96-0498f6b3723a.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/83112082/158495623-3ea8e271-a757-4633-aa96-0498f6b3723a.png" width="300" height="100">
 
 ## Design
 Helical vs Worm:\
