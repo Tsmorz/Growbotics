@@ -10,6 +10,8 @@ Set screw vs keyed\
 Plastic vs Metal
 
 ## Math
+https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
+https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file
 Forward Kinematics:
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
