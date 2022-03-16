@@ -54,12 +54,12 @@ The table below details all necessary parts to build your own farm robot for per
 | [Tap set screw]()     | 8       | machine shop      |
 
 ## Assembly
-The following instructions detail the logical assembly to build your robot.\
-1. \
-2. \
-3. \
-4. \
-5.
+The following instructions detail the logical assembly to build your robot.
+1. These
+2. are
+3. the
+4. necessary
+5. steps
 
 ## Installation
 Use the following commands to install the software on your Jetson Nano.
