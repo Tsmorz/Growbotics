@@ -5,11 +5,11 @@
 Helical vs Worm:\
 https://premium-transmission.com/blog/differences-between-worm-and-helical-gear/
 
-Lubricated vs Non-lubricated:\
+Lubricated vs Non-lubricated:
 
-Set screw vs keyed:\
+Set screw vs keyed:
 
-Plastic vs Metal:\
+Plastic vs Metal:
 
 CAD files:\
 https://cad.onshape.com/documents/517871e35c968bd66d5ebe1e/w/f864adab8c0359ced1c15b50/e/7b4442122f08ae8b70de35cf
@@ -22,13 +22,12 @@ https://www.eiger.io/library?view=grid
 https://gist.github.com/uupaa/f77d2bcf4dc7a294d109 \
 https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file \
 
-Forward Kinematics:\
+Forward Kinematics:
 Each set of joint angles maps to a unique end effector position.\
 The nonlinear mapping is calculated through the following equations:\
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
-Inverse Kinematics:\
-Unlike a serial link manipulator, the inverse kinematics problem is much easier to solve for a delta robot. The joint limits and configuration restrict the x-y-z positions to unique joint angles.\ 
+Inverse Kinematics:
 
 Control Systems:
 
