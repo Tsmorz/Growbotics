@@ -14,7 +14,7 @@ Set screw vs keyed:
 Plastic vs Metal:
 
 CAD files:\
-https://cad.onshape.com/documents/517871e35c968bd66d5ebe1e/w/f864adab8c0359ced1c15b50/e/7b4442122f08ae8b70de35cf
+https://cad.onshape.com/
 
 3D print files:\
 https://www.eiger.io/library?view=grid
