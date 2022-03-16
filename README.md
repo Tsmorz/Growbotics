@@ -1,7 +1,10 @@
 # Growbotics
 
 ## Design
-Helical vs Worm vs Timing Belt\
+Timing Belts:\
+quiet, requires mantenaince, absorbs shock, design flexibility
+Helical:\
+Worm:\
 Lubricated vs Non-lubricated\
 Set screw vs keyed\
 Plastic vs Metal
