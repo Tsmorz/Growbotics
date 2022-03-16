@@ -16,9 +16,7 @@ Plastic vs Metal
 
 ## Code
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+sudo apt-get install grwbot
 ```
 
 
