@@ -18,10 +18,14 @@ https://cad.onshape.com/documents/517871e35c968bd66d5ebe1e/w/f864adab8c0359ced1c
 ![ik_fk_planar_ik](https://user-images.githubusercontent.com/83112082/158498262-d42ebefd-7650-441f-95d4-f40f9f91df03.gif)\
 https://gist.github.com/uupaa/f77d2bcf4dc7a294d109 \
 https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file \
-Forward Kinematics: how do joint angles map to x-y-z coordinates?
+
+Forward Kinematics:\
+Each set of joint angles maps to a unique end effector position.\
+The nonlinear mapping is calculated through the following equations:\
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
-Inverse Kinematics: how do x-y-z coordinates map to joint angles?
+Inverse Kinematics:\
+Unlike a serial link manipulator, the inverse kinematics problem is much easier to solve for a delta robot. The joint limits and configuration restrict the x-y-z positions to unique joint angles.\ 
 
 Control Systems:
 
