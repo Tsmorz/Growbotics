@@ -15,10 +15,12 @@ Plastic vs Metal
 ## Electronics
 
 ## Code
-'''
-for i = 1:10
-  print(i)
-'''
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
 
 ## Materials
 | Item         | Quantity       | Cost (each)          | Link |
