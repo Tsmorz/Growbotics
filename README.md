@@ -34,9 +34,11 @@ Inverse Kinematics:
 Control Systems:
 
 ## Electronics
+Wiring diagram for the manipulator and mobile robot platform.\
 ![wiring](https://user-images.githubusercontent.com/83112082/158497874-c0ef5861-e687-4c1e-a27b-e2a09aff9d5e.jpg)
 
 ## Code
+Use the following commands to install the software on your Jetson Nano.\
 ```
 $ pip install grwbot
 ```
