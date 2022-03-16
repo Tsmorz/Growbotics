@@ -15,6 +15,7 @@ Plastic vs Metal
 ## Electronics
 
 ## Code
+[copy content="100OFF"]
 
 ## Materials
 | Item         | Quantity       | Cost (each)          | Link |
