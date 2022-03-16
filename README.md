@@ -15,7 +15,10 @@ Plastic vs Metal
 ## Electronics
 
 ## Code
-[copy content="100OFF"]
+'''
+for i = 1:10
+  print(i)
+'''
 
 ## Materials
 | Item         | Quantity       | Cost (each)          | Link |
