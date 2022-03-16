@@ -13,10 +13,10 @@ Plastic vs Metal
 ![ik_fk_planar_ik](https://user-images.githubusercontent.com/83112082/158498262-d42ebefd-7650-441f-95d4-f40f9f91df03.gif)\
 https://gist.github.com/uupaa/f77d2bcf4dc7a294d109 \
 https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file \
-Forward Kinematics:
+Forward Kinematics: how do joint angles map to x-y-z coordinates?
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
-Inverse Kinematics:
+Inverse Kinematics: how do x-y-z coordinates map to joint angles?
 
 Control Systems:
 
