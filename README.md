@@ -10,6 +10,7 @@ Set screw vs keyed\
 Plastic vs Metal
 
 ## Math
+![ik_fk_planar_ik](https://user-images.githubusercontent.com/83112082/158498262-d42ebefd-7650-441f-95d4-f40f9f91df03.gif)
 https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 https://stackoverflow.com/questions/34341808/is-there-a-way-to-add-a-gif-to-a-markdown-file
 Forward Kinematics:
