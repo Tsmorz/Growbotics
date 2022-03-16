@@ -22,8 +22,8 @@ Plastic vs Metal
 | Stepper Motor     | 4       | $$     | https://www.digikey.com/en/products/detail/sanyo-denki-sanmotion-products/SH1603-5240/13533529?s=N4IgjCBcpgDAHLKoDGUBmBDANgZwKYA0IA9lANrjwDsALBALrEAOALlCAMqsBOAlgDsA5iAC%2BxAExTayEGkhY8RUhRC1YSJiDYcAIiQCuAI2z4xxALQTZ83geVlIlAKwgG4kBYBsNqHYeqAMxuoh7WTiC4rPjMzPg8IUA     |
 | Springs    | 16       | $      |      |
 | Carbon Rod     | 3.5m       | $$      |      |
-| Gears (plastic)    | 4 - left       | $      |      |
-| Gears (plastic)    | 4 - right      | $      |      |
+| Gears - prototype    | 4 - left       | $      | https://www.mcmaster.com/3598N276/     |
+| Gears - prototype    | 4 - right      | $      | https://www.mcmaster.com/3598N299/     |
 | Gears (metal)     | 4 - left      | $$$      |      |
 | Gears (metal)     | 4 - right      | $$$      |      |
 | Tap set screw     | 8       | git diff      |      |
