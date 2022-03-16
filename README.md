@@ -2,10 +2,9 @@
 ![delta](https://user-images.githubusercontent.com/83112082/158495623-3ea8e271-a757-4633-aa96-0498f6b3723a.png)
 
 ## Design
-Timing Belts:\
-quiet, requires mantenaince, absorbs shock, design flexibility
-Helical:\
-Worm:\
+Helical vs Worm:\
+https://premium-transmission.com/blog/differences-between-worm-and-helical-gear/
+
 Lubricated vs Non-lubricated\
 Set screw vs keyed\
 Plastic vs Metal
