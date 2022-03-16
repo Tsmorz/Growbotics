@@ -1,5 +1,5 @@
 # Growbotics
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](/home/tony/Pictures/delta.png)
 
 ## Design
 Timing Belts:\
