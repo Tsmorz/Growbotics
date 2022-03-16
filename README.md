@@ -31,3 +31,7 @@ Plastic vs Metal
 | Limit Switch     | 8?       | digikey      |      |
 | 3D prints     | lots       | Markforged      |      |
 | Tap set screw     | 8       | machine shop      |      |
+
+## Assembly
+
+## Installation
