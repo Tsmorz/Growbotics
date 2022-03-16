@@ -37,14 +37,8 @@ Control Systems:
 Wiring diagram for the manipulator and mobile robot platform.\
 ![wiring](https://user-images.githubusercontent.com/83112082/158497874-c0ef5861-e687-4c1e-a27b-e2a09aff9d5e.jpg)
 
-## Code
-Use the following commands to install the software on your Jetson Nano.\
-```
-$ pip install grwbot
-```
-
-
 ## Materials
+The table below details all necessary parts to build your own farm robot for personal use. Please send me any suggestions that you think would improve the design or lower the cost.
 | Item                | Quantity       | Cost (each)          |
 | ------------------- |     :---:      |          ---:        |
 | [Threaded balls](https://www.mcmaster.com/balls/threaded-hole-ball-knobs-6/)      | 16     | $1.75    | 
@@ -60,8 +54,14 @@ $ pip install grwbot
 | [Tap set screw]()     | 8       | machine shop      |
 
 ## Assembly
+The following instructions detail the logical assembly to build your robot.
 
 ## Installation
+Use the following commands to install the software on your Jetson Nano.
+```
+$ pip install grwbot
+```
 
 ## Planting Materials
+The following materials are recommended planting supplies that fit with the robots specifications.
 http://www.jiffypot.com/en/products/jiffymultigrow.html
