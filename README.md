@@ -49,8 +49,8 @@ $ pip install grwbot
 | [Stepper Motor](https://www.digikey.com/en/products/detail/sanyo-denki-sanmotion-products/SH1603-5240/13533529?s=N4IgjCBcpgDAHLKoDGUBmBDANgZwKYA0IA9lANrjwDsALBALrEAOALlCAMqsBOAlgDsA5iAC%2BxAExTayEGkhY8RUhRC1YSJiDYcAIiQCuAI2z4xxALQTZ83geVlIlAKwgG4kBYBsNqHYeqAMxuoh7WTiC4rPjMzPg8IUA)     | 4       | $$     |
 | [Springs](https://www.mcmaster.com/springs/spring-type~extension/system-of-measurement~metric/)    | 16       | $      |
 | [Carbon Rod]()     | 3.5m       | $$      |      |
-| [Gears - prototype](https://www.mcmaster.com/3598N276/)    | 4 - left       | $      |
-| [Gears - prototype](https://www.mcmaster.com/3598N299/)    | 4 - right      | $      |
+| [Gears - prototype](https://www.mcmaster.com/3598N276/)    | 4 - left       | $19.74 |
+| [Gears - prototype](https://www.mcmaster.com/3598N299/)    | 4 - right      | $29.81 |
 | [Tap set screw]()     | 8       | machine shop      |
 | [Optical Encoder]()     | 4       | digikey      |
 | [Limit Switch]()     | 8?       | digikey      |
