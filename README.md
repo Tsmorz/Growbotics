@@ -1,6 +1,6 @@
 # Growbotics
 ![plot](/home/tony/Pictures/delta.png)
-https://github.com/Tsmorz/Growbotics/issues/1#issue-1170412768
+![plot](./https://github.com/Tsmorz/Growbotics/issues/1#issue-1170412768)
 ## Design
 Timing Belts:\
 quiet, requires mantenaince, absorbs shock, design flexibility
