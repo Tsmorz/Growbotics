@@ -55,10 +55,10 @@ The table below details all necessary parts to build your own farm robot for per
 
 ## Assembly
 The following instructions detail the logical assembly to build your robot.\
-1.
-2. 
-3. 
-4.
+1. \
+2. \
+3. \
+4. \
 5.
 
 ## Installation
