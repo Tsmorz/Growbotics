@@ -10,7 +10,12 @@ Set screw vs keyed\
 Plastic vs Metal
 
 ## Math
+Forward Kinematics:\
 <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
+Inverse Kinematics:\
+
+Control Systems:\
 
 ## Electronics
 
