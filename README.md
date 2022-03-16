@@ -1,6 +1,6 @@
 # Growbotics Inc. - UNFINISHED
 ## Youtube video: [mobile robot planting seedlings from a greenhouse](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-<img src="https://user-images.githubusercontent.com/83112082/158682965-eb73b14d-7174-4e0e-b831-2db8a9c2b9c4.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/83112082/158695710-409a7582-68b4-4f60-8c9a-1ad10f0847a4.png" width="50%" height="50%">
 <img src="https://user-images.githubusercontent.com/83112082/158495623-3ea8e271-a757-4633-aa96-0498f6b3723a.png" width="50%" height="50%">
 
 ## Design
