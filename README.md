@@ -5,10 +5,14 @@
 Helical vs Worm:\
 https://premium-transmission.com/blog/differences-between-worm-and-helical-gear/
 
-Lubricated vs Non-lubricated\
-Set screw vs keyed\
-Plastic vs Metal\
+Lubricated vs Non-lubricated:
+
+Set screw vs keyed:
+
+Plastic vs Metal:
+
 CAD files:
+
 
 ## Math
 ![ik_fk_planar_ik](https://user-images.githubusercontent.com/83112082/158498262-d42ebefd-7650-441f-95d4-f40f9f91df03.gif)\
