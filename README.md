@@ -16,20 +16,11 @@
 <a name="Materials"/>
 
 ## Design
-Helical vs Worm:\
-https://premium-transmission.com/blog/differences-between-worm-and-helical-gear/
+Linkage Design Tool: [link](https://www.marginallyclever.com/other/samples/fk-ik-test.html)
 
-Lubricated vs Non-lubricated:
+CAD files: [link](https://cad.onshape.com/)
 
-Set screw vs keyed:
-
-Plastic vs Metal:
-
-CAD files:\
-https://cad.onshape.com/
-
-3D print files:\
-https://www.eiger.io/
+3D print files: [link](https://www.eiger.io/)
 
 Soft Gripper:\
 
