@@ -47,6 +47,7 @@ The table below details all necessary parts to build your own farm robot for per
 | ------------------- |     :---:      |          ---:        |
 | [Threaded balls](https://www.mcmaster.com/balls/threaded-hole-ball-knobs-6/)      | 16     | $1.75    | 
 | [Stepper Motor](https://www.digikey.com/en/products/detail/sanyo-denki-sanmotion-products/SH1603-5240/13533529?s=N4IgjCBcpgDAHLKoDGUBmBDANgZwKYA0IA9lANrjwDsALBALrEAOALlCAMqsBOAlgDsA5iAC%2BxAExTayEGkhY8RUhRC1YSJiDYcAIiQCuAI2z4xxALQTZ83geVlIlAKwgG4kBYBsNqHYeqAMxuoh7WTiC4rPjMzPg8IUA)     | 4       | $$     |
+| [Prototype Stepper Motor](https://www.pololu.com/product-info-merged/1208)     | 4       | $     |
 | [Springs](https://www.mcmaster.com/springs/spring-type~extension/system-of-measurement~metric/)    | 16       | $      |
 | [Carbon Rod]()     | 3.5m       | $$      |      |
 | [Gears - prototype](https://www.mcmaster.com/3598N276/)    | 4 - left       | $19.74 |
