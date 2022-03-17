@@ -57,7 +57,7 @@ The table below details all necessary parts to build your own farm robot for per
 | [Limit Switch]()     | 8?       | digikey      |
 | [3D prints]()     | lots       | Markforged      |
 | [Tap set screw]()     | 8       | machine shop      |
-
+https://www.digikey.com/en/products/detail/pololu-corporation/1208/10449951
 
 ## Assembly
 The following instructions detail the logical assembly to build your robot.
