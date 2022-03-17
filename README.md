@@ -20,6 +20,8 @@ https://cad.onshape.com/
 3D print files:\
 https://www.eiger.io/
 
+Soft Gripper:\
+
 
 ## Math
 ![ik_fk_planar_ik](https://user-images.githubusercontent.com/83112082/158498262-d42ebefd-7650-441f-95d4-f40f9f91df03.gif)\
