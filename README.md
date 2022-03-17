@@ -42,7 +42,9 @@ Wiring diagram for the manipulator and mobile robot platform.\
 
 
 ## Materials
-The table below details all necessary parts to build your own farm robot for personal use. Please send me any suggestions that you think would improve the design or lower the cost.
+The table below details all necessary parts to build your own farm robot for personal use. Please send me any suggestions that you think would improve the design or lower the cost. \
+
+Prototype Version
 | Item                | Quantity       | Cost (each)          |
 | ------------------- |     :---:      |          ---:        |
 | [Ball joint](https://www.tqrcracing.com/shop/product_list.asp?s_cate_id=1104)      | 16     | $1.75    | 
@@ -50,14 +52,25 @@ The table below details all necessary parts to build your own farm robot for per
 | [Prototype Stepper Motor](https://www.digikey.com/en/products/detail/pololu-corporation/1208/10449951)     | 4       | $     |
 | [Springs](https://www.mcmaster.com/springs/spring-type~extension/system-of-measurement~metric/)    | 16       | $      |
 | [Carbon Rod]()     | 3.5m       | $$      |      |
-| [Gears - prototype](https://www.mcmaster.com/3598N276/)    | 4 - left       | $19.74 |
-| [Gears - prototype](https://www.mcmaster.com/3598N299/)    | 4 - right      | $29.81 |
+| [Limit Switch]()     | 8?       | digikey      |
+| [3D prints]()     | lots       | Markforged      |
+| [Tap set screw]()     | 8       | machine shop      |
+
+Production Version
+| Item                | Quantity       | Cost (each)          |
+| ------------------- |     :---:      |          ---:        |
+| [Ball joint](https://www.tqrcracing.com/shop/product_list.asp?s_cate_id=1104)      | 16     | $1.75    | 
+| [Shaft adapter](https://www.pololu.com/category/137/pololu-universal-mounting-hubs)     | 4       | $$     |
+| [Prototype Stepper Motor](https://www.digikey.com/en/products/detail/pololu-corporation/1208/10449951)     | 4       | $     |
+| [Springs](https://www.mcmaster.com/springs/spring-type~extension/system-of-measurement~metric/)    | 16       | $      |
+| [Carbon Rod]()     | 3.5m       | $$      |      |
+| [Gears - small](https://www.mcmaster.com/3598N276/)    | 4 - left       | $19.74 |
+| [Gears - large](https://www.mcmaster.com/3598N299/)    | 4 - right      | $29.81 |
 | [Tap set screw]()     | 8       | machine shop      |
 | [Optical Encoder]()     | 4       | digikey      |
 | [Limit Switch]()     | 8?       | digikey      |
 | [3D prints]()     | lots       | Markforged      |
 | [Tap set screw]()     | 8       | machine shop      |
-https://www.digikey.com/en/products/detail/pololu-corporation/1208/10449951
 
 ## Assembly
 The following instructions detail the logical assembly to build your robot.
