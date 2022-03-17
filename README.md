@@ -45,9 +45,9 @@ Wiring diagram for the manipulator and mobile robot platform.\
 The table below details all necessary parts to build your own farm robot for personal use. Please send me any suggestions that you think would improve the design or lower the cost.
 | Item                | Quantity       | Cost (each)          |
 | ------------------- |     :---:      |          ---:        |
-| [Threaded balls](https://www.mcmaster.com/balls/threaded-hole-ball-knobs-6/)      | 16     | $1.75    | 
-| [Stepper Motor](https://www.digikey.com/en/products/detail/sanyo-denki-sanmotion-products/SH1603-5240/13533529?s=N4IgjCBcpgDAHLKoDGUBmBDANgZwKYA0IA9lANrjwDsALBALrEAOALlCAMqsBOAlgDsA5iAC%2BxAExTayEGkhY8RUhRC1YSJiDYcAIiQCuAI2z4xxALQTZ83geVlIlAKwgG4kBYBsNqHYeqAMxuoh7WTiC4rPjMzPg8IUA)     | 4       | $$     |
-| [Prototype Stepper Motor](https://www.pololu.com/product-info-merged/1208)     | 4       | $     |
+| [Ball joint](https://www.tqrcracing.com/shop/product_list.asp?s_cate_id=1104)      | 16     | $1.75    | 
+| [Shaft adapter](https://www.pololu.com/category/137/pololu-universal-mounting-hubs)     | 4       | $$     |
+| [Prototype Stepper Motor](https://www.digikey.com/en/products/detail/pololu-corporation/1208/10449951)     | 4       | $     |
 | [Springs](https://www.mcmaster.com/springs/spring-type~extension/system-of-measurement~metric/)    | 16       | $      |
 | [Carbon Rod]()     | 3.5m       | $$      |      |
 | [Gears - prototype](https://www.mcmaster.com/3598N276/)    | 4 - left       | $19.74 |
