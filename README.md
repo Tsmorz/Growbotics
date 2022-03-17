@@ -1,4 +1,4 @@
-# Growbotics Inc. - UNFINISHED
+# OSCAR (Open Source Community Agriculture Robot)
 ## Youtube video: [mobile robot planting seedlings from a greenhouse](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <img src="https://user-images.githubusercontent.com/83112082/158695710-409a7582-68b4-4f60-8c9a-1ad10f0847a4.png" width="100%" height="100%">
@@ -62,12 +62,11 @@ Prototype Version
 | [Ball joint](https://www.tqrcracing.com/shop/product_list.asp?s_cate_id=1104)      | 16     | $1.75    | 
 | [Shaft adapter](https://www.pololu.com/category/137/pololu-universal-mounting-hubs)     | 4       | $$     |
 | [Stepper Motor](https://www.digikey.com/en/products/detail/pololu-corporation/1208/10449951)     | 4       | $     |
-| [Stepper Driver]()     | 4       | $     |
+| [Stepper Driver](https://www.pololu.com/category/212/tic-stepper-motor-controllers)     | 4       | $     |
 | [Springs](https://www.mcmaster.com/springs/spring-type~extension/system-of-measurement~metric/)    | 16       | $      |
 | [Carbon Rod]()     | 3.5m       | $$      |      |
 | [Limit Switch]()     | 8?       | digikey      |
 | [3D prints]()     | lots       | Markforged      |
-| [Tap set screw]()     | 8       | machine shop      |
 
 Production Version
 | Item                | Quantity       | Cost (each)          |
