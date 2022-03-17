@@ -93,7 +93,7 @@ The following instructions detail the logical assembly to build your robot.
 ## Installation
 Use the following commands to install the software on your Jetson Nano.
 ```
-$ pip install grwbot
+$ pip install oscar
 ```
 
 
