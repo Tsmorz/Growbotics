@@ -55,7 +55,7 @@ Prototype Version
 | [Shaft adapter](https://www.pololu.com/category/137/pololu-universal-mounting-hubs)     | 4       | $$     |
 | [Stepper Motor](https://www.digikey.com/en/products/detail/pololu-corporation/1208/10449951)     | 4       | $     |
 | [Stepper Driver](https://www.pololu.com/category/212/tic-stepper-motor-controllers)     | 4       | $     |
-| [Springs](https://www.mcmaster.com/springs/spring-type~extension/system-of-measurement~metric/)    | 16       | $      |
+| [Springs](https://www.mcmaster.com/springs/spring-type~extension/extension-springs-with-hook-ends-7/system-of-measurement~metric/)    | 16       | $      |
 | [Carbon Rod]()     | 3.5m       | $$      |      |
 | [Limit Switch]()     | 8?       | digikey      |
 | [3D prints]()     | lots       | Markforged      |
