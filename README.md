@@ -24,7 +24,7 @@ The following section describes the design of OSCAR and lists all original CAD f
 
 Linkage Design Tool: [link](https://www.marginallyclever.com/other/samples/fk-ik-test.html)
 
-CAD files: [link](https://cad.onshape.com/)
+CAD files: [link](https://cad.onshape.com/) \
 All 3D models will be available for download as I keep progressing. Anyone with a free Onshape account can download them. If you have troubles getting access, please send me an email.
 
 3D print files: [link](https://www.eiger.io/)
