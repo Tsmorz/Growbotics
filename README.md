@@ -1,5 +1,8 @@
 # OSCAR
-**O**pen-**s**ource **C**ommunity **A**griculture **R**obot
+**O**pen-**s**ource **C**ommunity **A**griculture **R**obot \
+I intend for OSCAR to be an affordable farming assistant to help grow fresh produce on a local scale.
+
+
 ## Youtube video: [mobile robot planting seedlings from a greenhouse]()
 [comment]: <> (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -17,6 +20,8 @@
 <a name="Materials"/>
 
 ## Design
+The following section describes the design of OSCAR and lists all original CAD files and STL files ready for a 3D printer. \
+
 Linkage Design Tool: [link](https://www.marginallyclever.com/other/samples/fk-ik-test.html)
 
 CAD files: [link](https://cad.onshape.com/)
