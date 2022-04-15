@@ -20,7 +20,7 @@ I intend for OSCAR to be an affordable farming assistant to help grow fresh prod
 <a name="Materials"/>
 
 ## Design
-The following section describes the design of OSCAR and lists all original CAD files and STL files ready for a 3D printer. \
+The following section describes the design of OSCAR and lists all original CAD files and STL files ready for a 3D printer.
 
 Linkage Design Tool: [link](https://www.marginallyclever.com/other/samples/fk-ik-test.html)
 
@@ -51,7 +51,7 @@ Wiring diagram for the manipulator and mobile robot platform.\
 
 
 ## Materials
-The table below details all necessary parts to build your own farm robot for personal use. Please send me any suggestions that you think would improve the design or lower the cost. \
+The table below details all necessary parts to build your own farm robot for personal use. Please send me any suggestions that you think would improve the design or lower the cost.
 
 Prototype Version
 | Item                | Quantity       | Cost (each)          |
