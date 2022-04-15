@@ -1,6 +1,6 @@
 # OSCAR
 **O**pen-**s**ource **C**ommunity **A**griculture **R**obot
-## Youtube video: [mobile robot planting seedlings from a greenhouse](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## Youtube video: [mobile robot planting seedlings from a greenhouse]()%(https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <img src="https://user-images.githubusercontent.com/83112082/158695710-409a7582-68b4-4f60-8c9a-1ad10f0847a4.png" width="100%" height="100%">
 <img src="https://user-images.githubusercontent.com/83112082/158697429-a6c9f0c1-c2a6-409a-b8f7-cdcd9ff8d750.png" width="70%" height="70%">
