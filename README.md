@@ -46,7 +46,7 @@ Control Systems:
 
 
 ## Electronics
-Wiring diagram for the manipulator and mobile robot platform.\
+Wiring diagram for the manipulator and mobile robot platform. THIS IS A PLACEHOLDER\
 ![wiring](https://user-images.githubusercontent.com/83112082/158497874-c0ef5861-e687-4c1e-a27b-e2a09aff9d5e.jpg)
 
 
